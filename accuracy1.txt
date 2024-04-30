@@ -1,0 +1,4 @@
+epoch number: 15
+
+test accuracy: 0.7006999850273132
+
